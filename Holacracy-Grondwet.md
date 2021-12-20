@@ -23,7 +23,7 @@ Een Rolbeschrijving bestaat uit een beschrijvende naam en één of meer van de v
 - **(b)** Eén of meer ***“Domeinen”***: middelen, processen, of andere zaken die de Rol exclusief mag beheren als zijn eigendom, ten dienste van zijn Purpose.
 - **(c)** Eén of meer ***“Verantwoordelijkheden”***: doorlopende activiteiten die de Rol beheert en uitvoert, ten dienste van andere Rollen of van zijn Purpose.
 
-Een Rol mag ook ***“Werkafspraken”*** bevatten. Een werkafspraak is een afspraak om bevoegdheden toe te kennen of te beperken, of stelt speciale regels vast die van toepassing zijn binnen die Rol.
+Een Rol mag ook ***“Beleidsafspraken”*** bevatten. Een Beleidsafspraak is een afspraak om bevoegdheden toe te kennen of te beperken, of stelt speciale regels vast die van toepassing zijn binnen die Rol.
 
 ### 1.2 Verantwoordelijkheden van Rolleiders
 
