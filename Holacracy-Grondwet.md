@@ -54,11 +54,11 @@ Wanneer je tijd beschikbaar hebt om een Rol te activeren, ben je er verantwoorde
 
 ### 1.3 Cirkels
 
-Een ***“Cirkel”*** is een verzameling van Rollen en Werkafspraken met een gedeelde Purpose. Deze Rollen en Werkafspraken vormen samen de vastgelegde ***“Governance”*** van de Cirkel.
+Een ***“Cirkel”*** is een verzameling van Rollen en Beleidsafspraken met een gedeelde Purpose. Deze Rollen en Beleidsafspraken vormen samen de vastgelegde ***“Governance”*** van de Cirkel.
 
 #### 1.3.1 Opsplitsen van Rollen
 
-Elke Rol is van binnen een Cirkel. Deze Cirkel kan zijn eigen Rollen en Werkafspraken bevatten om het werk te verdelen en organiseren. Dit geldt niet voor de Rollen die in deze Grondwet zijn vastgelegd, welke niet verder opgesplitst mogen worden.
+Elke Rol is van binnen een Cirkel. Deze Cirkel kan zijn eigen Rollen en Beleidsafspraken bevatten om het werk te verdelen en organiseren. Dit geldt niet voor de Rollen die in deze Grondwet zijn vastgelegd, welke niet verder opgesplitst mogen worden.
 
 De Cirkel binnen een Rol wordt beschouwd als een ***“Subcirkel”*** van de bredere Cirkel waar de Rol binnen valt, en de bredere Cirkel als de ***“Supercirkel”***.
 
@@ -72,17 +72,17 @@ Met het delegeren van een Domein aan een Rol worden niet de rechten gedelegeerd 
 
 #### 1.3.3 Ankercirkel
 
-De breedste Cirkel die de Purpose van de hele Organisatie draagt is de ***“Ankercirkel”***. De Ankercirkel bevat alle bevoegdheden en Domeinen die aan de Organisatie zijn toegekend en heeft geen Supercirkel. De Ankercirkel mag zijn eigen Purpose wijzigen of zijn eigen Verantwoordelijkheden verhelderen middels een Werkafspraak.
+De breedste Cirkel die de Purpose van de hele Organisatie draagt is de ***“Ankercirkel”***. De Ankercirkel bevat alle bevoegdheden en Domeinen die aan de Organisatie zijn toegekend en heeft geen Supercirkel. De Ankercirkel mag zijn eigen Purpose wijzigen of zijn eigen Verantwoordelijkheden verhelderen middels een Beleidsafspraak.
 
 De Ondertekenaars mogen bij aanname van deze Grondwet een aanvankelijke structuur en andere Governance binnen de Ankercirkel bepalen.
 
 #### 1.3.4 Koppelingen naar Cirkels
 
-Een Rol mag een koppeling maken met een andere Cirkel, als een Werkafspraak van die Cirkel of een Supercirkel daarvan daartoe uitnodigt.
+Een Rol mag een koppeling maken met een andere Cirkel, als een Beleidsafspraak van die Cirkel of een Supercirkel daarvan daartoe uitnodigt.
 
 Wanneer een Rol eenmaal gekoppeld is met een andere Cirkel, wordt deze onderdeel van de Governance van die Cirkel. Deze Cirkel mag toevoegingen doen aan de Rol en deze toevoegingen later weer wijzigen. De Cirkel mag de Rol echter niet verwijderen, noch iets wijzigen dat door de Cirkel van oorsprong is vastgelegd. De Cirkel van oorsprong mag niet wijzigen of verwijderen wat de Cirkel toevoegt. De bevoegdheid om de Rol toe te wijzen of daar wijzigingen in te doen blijft behouden door de Cirkel van oorsprong. De Cirkel waar de Rol mee gekoppeld is wordt niet beschouwd als de Supercirkel en de Cirkel binnen de gekoppelde Rol wordt niet beschouwd als een Subcirkel.
 
-Een cirkel mag de koppeling met een Rol verbreken door de Werkafspraak die daartoe uitnodigt te verwijderen, of via een ander mechanisme dat in de Werkafspraak beschreven is. Een Rol mag er ook zelf voor kiezen om de koppeling met de Cirkel te verbreken, tenzij anders bepaald in een Werkafspraak die van toepassing is op de Cirkel van oorsprong. Wanneer de koppeling eenmaal verbroken is vervallen eventuele toevoegingen aan de Governance van de Rol automatisch.
+Een cirkel mag de koppeling met een Rol verbreken door de Beleidsafspraak die daartoe uitnodigt te verwijderen, of via een ander mechanisme dat in de Beleidsafspraak beschreven is. Een Rol mag er ook zelf voor kiezen om de koppeling met de Cirkel te verbreken, tenzij anders bepaald in een Beleidsafspraak die van toepassing is op de Cirkel van oorsprong. Wanneer de koppeling eenmaal verbroken is vervallen eventuele toevoegingen aan de Governance van de Rol automatisch.
 
 #### 1.3.5 Facilitator- & Secretaris-rollen
 
@@ -96,7 +96,7 @@ Een Cirkel mag Verantwoordelijkheden of Domeinen toevoegen aan zijn Facilitator-
 
 Een Rol Lead is automatisch ook ***“Cirkel Lead”*** in de Cirkel binnen de Rol en vervult daar dus de ***“Cirkel Lead-rol”***. De Cirkel Lead-rol kent dezelfde Purpose als de bredere Rol en die Verantwoordelijkheden van de bredere Rol die niet al gedelegeerd zijn aan Rollen of processen binnen de Cirkel.
 
-De Ankercirkel kent geen Cirkel Leads, tenzij anders bepaald in een Werkafspraak van de Cirkel.
+De Ankercirkel kent geen Cirkel Leads, tenzij anders bepaald in een Beleidsafspraak van de Cirkel.
 
 #### 1.4.1 Toewijzen van Rollen
 
@@ -104,7 +104,7 @@ Een Cirkel Lead beheert de toewijzing van Rollen binnen de Cirkel en mag elke Ro
 
 Een Cirkel Lead mag een roltoewijzing beperken door deze te focussen op een bepaald gebied. Daarbij moet de volledige rolbeschrijving van toepassing zijn op dat gebied. Wanneer een focus wordt aangebracht, gedraagt iedere toegewezen focus zich als aparte Rol. De Purpose, Domeinen en Verantwoordelijkheden van de Rol blijven van toepassing, maar alleen binnen de toegewezen focus.
 
-Niemand anders dan een Cirkel Lead mag Rollen binnen de Cirkel toewijzen of een roltoewijzing herzien, tenzij de Cirkel de bevoegdheid om rollen toe te wijzen heeft gedelegeerd aan een andere Rol of proces. Een Werkafspraak mag het doen of herzien van roltoewijzingen verder beperken.
+Niemand anders dan een Cirkel Lead mag Rollen binnen de Cirkel toewijzen of een roltoewijzing herzien, tenzij de Cirkel de bevoegdheid om rollen toe te wijzen heeft gedelegeerd aan een andere Rol of proces. Een Beleidsafspraak mag het doen of herzien van roltoewijzingen verder beperken.
 
 #### 1.4.2 Niet-vervulde Rollen
 
@@ -177,13 +177,13 @@ Elke Partner mag een ***“Werkoverleg”*** organiseren om Partners te helpen e
 
 ### 3.1 Aanwezigheid
 
-Voor de regelmatige Werkoverleggen die door de Secretaris van de Cirkel worden georganiseerd zijn alle Rollen van de Cirkel uitgenodigd, tenzij een Werkafspraak iets anders bepaalt. Voor andere Werkoverleggen moet de Partner die ze organiseert aangeven welke Rollen uitgenodigd zijn. Alle Partners die Rol Lead zijn van de genodigde Rollen hebben het recht om deel te nemen en die Rollen te vertegenwoordigen, tenzij de organisator de uitnodiging beperkt tot een deel van de Rol Leads van een Rol.
+Voor de regelmatige Werkoverleggen die door de Secretaris van de Cirkel worden georganiseerd zijn alle Rollen van de Cirkel uitgenodigd, tenzij een Beleidsafspraak iets anders bepaalt. Voor andere Werkoverleggen moet de Partner die ze organiseert aangeven welke Rollen uitgenodigd zijn. Alle Partners die Rol Lead zijn van de genodigde Rollen hebben het recht om deel te nemen en die Rollen te vertegenwoordigen, tenzij de organisator de uitnodiging beperkt tot een deel van de Rol Leads van een Rol.
 
 ### 3.2 Overlegvorm
 
 De Facilitator van een Cirkel is verantwoordelijk voor het faciliteren van de regelmatige Werkoverleggen van de Cirkel en de Secretaris voor het vastleggen en delen van de uitkomsten van het Werkoverleg. Voor Werkoverleggen die worden georganiseerd door iemand anders dan de Secretaris van een Cirkel moet de Partner die ze organiseert ze faciliteren en de uitkomsten vastleggen, of daar een vrijwilliger of passende Rol voor zoeken.
 
-Tenzij een Werkafspraak iets anders bepaalt moet de persoon die het overleg faciliteert het volgende proces volgen:
+Tenzij een Beleidsafspraak iets anders bepaalt moet de persoon die het overleg faciliteert het volgende proces volgen:
 
 - **(a) Check-in:** Elke deelnemer deelt een voor een zijn of haar huidige gemoedstoestand of een andere opmerking om het overleg mee te openen. Reacties zijn niet toegestaan.
 - **(b) Terugkerende Taken:** Elke deelnemer deelt of terugkerende taken waar hij of zij regelmatig over rapporteert voor zijn of haar Rollen in het overleg, gedaan zijn.
@@ -193,7 +193,7 @@ Tenzij een Werkafspraak iets anders bepaalt moet de persoon die het overleg faci
 - **(f) Agendapunten Behandelen:** Om een agendapunt te behandelen mag de eigenaar van het agendapunt verzoeken doen aan andere deelnemers, in hun hoedanigheid als Partner of in een Rol die zij vertegenwoordigen in het overleg. Verzoeken aan een Rol mogen echter alleen gedaan worden vanuit een Rol die degene die het verzoek doet in het overleg vertegenwoordigt. De persoon die het overleg faciliteert geeft aan hoeveel tijd er per agendapunt beschikbaar is zodat alle agendapunten behandeld kunnen worden, en mag het behandelen van een agendapunt afkappen om dat te bewaken.
 - **(g) Check-out:** Elke deelnemer deelt een voor een zijn of haar reflectie op het overleg. Reacties zijn niet toegestaan.
 
-Een Werkafspraak mag een alternatief proces beschrijven voor de Werkoverleggen die op initiatief van de Rollen van een Cirkel plaatsvinden of dit standaardproces wijzigen.
+Een Beleidsafspraak mag een alternatief proces beschrijven voor de Werkoverleggen die op initiatief van de Rollen van een Cirkel plaatsvinden of dit standaardproces wijzigen.
 
 
 ## Artikel 4: Gedistribueerde Autoriteit
@@ -216,7 +216,7 @@ Je mag verder invloed uitoefenen op elk Domein van een van de Supercirkels van j
 
 Je mag geen controle of aanzienlijke invloed uitoefenen op een Domein dat gedelegeerd is aan een Rol of Cirkel waar jouw Rol niet binnen valt, tenzij je toestemming hebt. Hetzelfde geldt voor een Domein dat eigendom is van een derde partij.
 
-Wanneer je toestemming nodig hebt om invloed uit te oefenen op een Domein, dan mag je deze vragen aan degene die het Domein beheert. Je mag ook toestemming krijgen door je intentie om een bepaalde actie te nemen aan te kondigen en iedereen met een relevant Domein uit te nodigen om bezwaar te maken. Je moet vervolgens een redelijke tijd wachten om ruimte te geven voor reacties. Als niemand gedurende die tijd bezwaar maakt, dan heb je toestemming om invloed uit te oefenen op de Domeinen van die Rollen in de Organisatie waarbij je je intentie hebt aangekondigd. Je mag daarbij aannemen dat een geschreven aankondiging iedereen bereikt die normaliter berichten leest via het kanaal dat je gebruikt. De toestemming die je op deze manier krijgt is alleen geldig voor de specifieke actie die je hebt aangekondigd. Dit proces mag gewijzigd of beperkt worden door een Werkafspraak.
+Wanneer je toestemming nodig hebt om invloed uit te oefenen op een Domein, dan mag je deze vragen aan degene die het Domein beheert. Je mag ook toestemming krijgen door je intentie om een bepaalde actie te nemen aan te kondigen en iedereen met een relevant Domein uit te nodigen om bezwaar te maken. Je moet vervolgens een redelijke tijd wachten om ruimte te geven voor reacties. Als niemand gedurende die tijd bezwaar maakt, dan heb je toestemming om invloed uit te oefenen op de Domeinen van die Rollen in de Organisatie waarbij je je intentie hebt aangekondigd. Je mag daarbij aannemen dat een geschreven aankondiging iedereen bereikt die normaliter berichten leest via het kanaal dat je gebruikt. De toestemming die je op deze manier krijgt is alleen geldig voor de specifieke actie die je hebt aangekondigd. Dit proces mag gewijzigd of beperkt worden door een Beleidsafspraak.
 
 #### 4.1.3 Vraag Toestemming voor je Geld Besteedt
 
@@ -224,7 +224,7 @@ Je mag geen geld of andere middelen besteden, tenzij je daar eerst toestemming v
 
 Om toestemming te krijgen moet je eerst je intentie om een besteding te doen schriftelijk aankondigen bij de Rol waar je toestemming van vraagt. Je moet deze aankondiging op zo’n manier delen dat de Partners die als Rol Lead fungeren voor of binnen de Rol dit normaliter zien. Je aankondiging moet de reden dat je de besteding wilt doen benoemen en ook de Rol van waaruit je de besteding wilt doen. Je moet vervolgens een redelijke tijd wachten om ruimte te geven voor beoordeling en reacties. Elke ontvanger van je aankondiging mag de besteding escaleren voor extra beoordeling, en in dat geval mag je niet overgaan tot besteding. Een Rol Lead van de Rol waar je toestemming van vraagt mag een escalatie echter herroepen, net als de persoon die de escalatie deed. Als er na een redelijke tijd geen escalaties meer actief zijn, dan krijgt je Rol het beheer over de gevraagde middelen. Je mag ze besteden voor het aangekondigde doel, of anderen toestemming geven om dat te doen. De Rol waar je toestemming van gekregen hebt verliest het beheer van de middelen, maar een Rol Lead van die Rol mag de toestemming op elk moment weer intrekken.
 
-Dit proces mag volledig gewijzigd worden door een Werkafspraak, of de bevoegdheid om de middelen van de Cirkel te besteden mag door een Werkafspraak ook direct aan een Rol toegekend worden.
+Dit proces mag volledig gewijzigd worden door een Beleidsafspraak, of de bevoegdheid om de middelen van de Cirkel te besteden mag door een Beleidsafspraak ook direct aan een Rol toegekend worden.
 
 ### 4.2 Bevoegdheid om te Interpreteren
 
@@ -270,7 +270,7 @@ Het wijzigen van de Governance van een Cirkel vereist de toepassing van het hier
 
 Elke Cirkel heeft een groep ***“Cirkelleden”*** die zijn Rollen mogen vertegenwoordigen in het Governance-proces van die Cirkel.
 
-De Leden van een Cirkel bestaan uit de Partners die de Cirkel Lead-rol vervullen, plus iedere Partner die als Rol Lead van een Rol in de Cirkel fungeert. Als een Rol meer Rol Leads heeft, dan mag een Cirkel een Werkafspraak aannemen om het aantal Cirkelleden dat die Rol vertegenwoordigt in het Governance-proces te beperken.
+De Leden van een Cirkel bestaan uit de Partners die de Cirkel Lead-rol vervullen, plus iedere Partner die als Rol Lead van een Rol in de Cirkel fungeert. Als een Rol meer Rol Leads heeft, dan mag een Cirkel een Beleidsafspraak aannemen om het aantal Cirkelleden dat die Rol vertegenwoordigt in het Governance-proces te beperken.
 
 #### 5.1.1 Cirkel Reps
 
@@ -280,9 +280,9 @@ Elk Lid van een Cirkel mag op elk moment verzoeken om een verkiezing te houden v
 - **(b)** Beoordelen welke Spanningen geschikt zijn om te behandelen in een bredere Cirkel
 - **(c)** Agenderen en oplossen van Spanningen in een bredere Cirkel om belemmeringen voor de Cirkel weg te nemen
 
-De Cirkel moet het in deze Grondwet beschreven Integratieve Verkiezingsproces gebruiken om een Cirkel Rep te kiezen, tenzij een Werkafspraak een alternatief mechanisme beschrijft. Alleen de Leden van een Cirkel zijn verkiesbaar als de Cirkel Rep van die Cirkel. Zij die als Cirkel Lead voor de Cirkel fungeren, mogen niet ook als Cirkel Rep fungeren. Er mag slechts een persoon tegelijk fungeren als Cirkel Rep, tenzij een Werkafspraak van een bredere Cirkel er meer toestaat.
+De Cirkel moet het in deze Grondwet beschreven Integratieve Verkiezingsproces gebruiken om een Cirkel Rep te kiezen, tenzij een Beleidsafspraak een alternatief mechanisme beschrijft. Alleen de Leden van een Cirkel zijn verkiesbaar als de Cirkel Rep van die Cirkel. Zij die als Cirkel Lead voor de Cirkel fungeren, mogen niet ook als Cirkel Rep fungeren. Er mag slechts een persoon tegelijk fungeren als Cirkel Rep, tenzij een Beleidsafspraak van een bredere Cirkel er meer toestaat.
 
-De gekozen Cirkel Rep wordt Lid van elke Cirkel waar de betreffende Cirkel binnen valt en kent dezelfde vertegenwoordigende bevoegdheid als een Cirkel Lead. Een bredere Cirkel mag in een Werkafspraak bepalen dat Cirkel Reps geen Cirkelleden worden, of hun rechten beperken, op voorwaarde dat zijn Rollen op een andere manier toegang hebben tot vergelijkbare vertegenwoordiging binnen de Cirkel.
+De gekozen Cirkel Rep wordt Lid van elke Cirkel waar de betreffende Cirkel binnen valt en kent dezelfde vertegenwoordigende bevoegdheid als een Cirkel Lead. Een bredere Cirkel mag in een Beleidsafspraak bepalen dat Cirkel Reps geen Cirkelleden worden, of hun rechten beperken, op voorwaarde dat zijn Rollen op een andere manier toegang hebben tot vergelijkbare vertegenwoordiging binnen de Cirkel.
 
 Een Cirkel mag Verantwoordelijkheden of Domeinen toevoegen aan zijn eigen Cirkel Rep-rol en mag deze toevoegingen ook weer wijzigen of verwijderen. Cirkels mogen de in deze Grondwet vastgelegde Purpose of Verantwoordelijkheden niet wijzigen of verwijderen.
 
@@ -290,7 +290,7 @@ Een Cirkel mag Verantwoordelijkheden of Domeinen toevoegen aan zijn eigen Cirkel
 
 De Facilitator van een Cirkel is verantwoordelijk voor het faciliteren van het Governance-proces van die Cirkel. De Secretaris van een Cirkel is verantwoordelijk voor het vastleggen en delen van de uitkomsten van het Governance-proces en heeft de vastgelegde Governance van de Cirkel als Domein.
 
-Elk Lid van een Cirkel mag op elk moment verzoeken om een verkiezing te houden voor het kiezen of vervangen van de Facilitator of Secretaris van de Cirkel. De Cirkel moet het in deze Grondwet beschreven Integratieve Verkiezingsproces gebruiken om een Facilitator of Secretaris te kiezen. Het kiezen of vervangen van een Facilitator of Secretaris mag niet door een Rol of Werkafspraak worden gedaan, noch het hier beschreven, vereiste proces wijzigen. Normaliter zijn alleen de Cirkelleden verkiesbaar voor deze rollen, maar een Werkafspraak van de Cirkel of van een Supercirkel mag verkiesbare kandidaten toevoegen of beperken.
+Elk Lid van een Cirkel mag op elk moment verzoeken om een verkiezing te houden voor het kiezen of vervangen van de Facilitator of Secretaris van de Cirkel. De Cirkel moet het in deze Grondwet beschreven Integratieve Verkiezingsproces gebruiken om een Facilitator of Secretaris te kiezen. Het kiezen of vervangen van een Facilitator of Secretaris mag niet door een Rol of Beleidsafspraak worden gedaan, noch het hier beschreven, vereiste proces wijzigen. Normaliter zijn alleen de Cirkelleden verkiesbaar voor deze rollen, maar een Beleidsafspraak van de Cirkel of van een Supercirkel mag verkiesbare kandidaten toevoegen of beperken.
 
 ### 5.2 Toepassing van het Governance-proces
 
@@ -306,20 +306,20 @@ Geen enkel ander besluit is een geldige uitkomst van het Governance-proces van e
 
 #### 5.2.1 Toepassing van Werkafspraken
 
-Een Werkafspraak mag alleen verwijzen naar een of meer van het volgende:
+Een Beleidsafspraak mag alleen verwijzen naar een of meer van het volgende:
 
 - **(a)** Het beperken van de bevoegdheid van een of meer van de Rollen binnen de Cirkel.
 - **(b)** Het toekennen van een bevoegdheid waarover de Cirkel of Cirkel Lead beschikt aan een of meer Rollen.
 - **(c)** Het toekennen van de bevoegdheid om controle of invloed uit te oefenen op een Domein van de Cirkel aan mensen of Rollen die daar anders niet toe bevoegd zouden zijn, of het beperken van hoe ze dat mogen doen als ze daar al toe bevoegd zijn.
 - **(d)** Het wijzigen van een standaardregel of -proces in deze Grondwet, als die wijziging expliciet is toegestaan.
 
-Een Werkafspraak die bevoegdheid toekent of beperkt geldt in alle Subcirkels en alle Subcirkels daarvan, tenzij anders bepaald. Een Werkafspraak die een standaardregel of -proces in deze Grondwet wijzigt, geldt alleen in de Cirkel die de Werkafspraak vastlegt, of indien expliciet benoemd, in alle Subcirkels en alle Subcirkels daarvan. In het laatste geval mag een Subcirkel alsnog afwijken van de Werkafspraak door een eigen Werkafspraak vast te leggen, tenzij expliciet verboden in de oorspronkelijke Werkafspraak.
+Een Beleidsafspraak die bevoegdheid toekent of beperkt geldt in alle Subcirkels en alle Subcirkels daarvan, tenzij anders bepaald. Een Beleidsafspraak die een standaardregel of -proces in deze Grondwet wijzigt, geldt alleen in de Cirkel die de Beleidsafspraak vastlegt, of indien expliciet benoemd, in alle Subcirkels en alle Subcirkels daarvan. In het laatste geval mag een Subcirkel alsnog afwijken van de Beleidsafspraak door een eigen Beleidsafspraak vast te leggen, tenzij expliciet verboden in de oorspronkelijke Beleidsafspraak.
 
 ### 5.3 Wijzigen van Governance
 
 Elk Lid van een Cirkel mag het Governance-proces opstarten door een wijziging van de Governance voor te stellen. Om dat te doen moet de ***“Indiener”*** eerst een schriftelijk ***“Voorstel”*** delen met alle andere Cirkelleden, via een door de Secretaris goedgekeurd communicatiekanaal. De andere Cirkelleden mogen vervolgens verhelderende vragen stellen, reacties geven en zorgen delen over het aannemen van het Voorstel. Elke zorg is een ***“Bezwaar”*** als het voldoet aan de hieronder beschreven criteria, en de persoon die het deelt is de ***“Bezwaarmaker”***.
 
-Zodra elk Cirkellid aangeeft geen Bezwaar te maken tegen een Voorstel, dan is het Voorstel aangenomen en wordt de Governance van de Cirkel gewijzigd. Als er Bezwaren gemaakt worden moeten de Indiener en iedere Bezwaarmaker een manier vinden om de Bezwaren te adresseren voordat het Voorstel kan worden aangenomen door de Cirkel. Een Cirkel mag een Werkafspraak aannemen om een tijdslimiet vast te leggen voor het maken van Bezwaren, waarna van iedereen die niet gereageerd heeft wordt aangenomen dat ze geen Bezwaren hebben. Elk Cirkellid mag op elk moment tijdens het asynchroon behandelen van een Voorstel de Indiener verzoeken om het Voorstel in te brengen tijdens een overleg om het daar te behandelen. Tenzij iets anders wordt bepaald in een Werkafspraak wordt de asynchrone behandeling dan afgebroken en wordt het Voorstel beschouwd als ingetrokken, totdat het opnieuw wordt ingediend tijdens een overleg.
+Zodra elk Cirkellid aangeeft geen Bezwaar te maken tegen een Voorstel, dan is het Voorstel aangenomen en wordt de Governance van de Cirkel gewijzigd. Als er Bezwaren gemaakt worden moeten de Indiener en iedere Bezwaarmaker een manier vinden om de Bezwaren te adresseren voordat het Voorstel kan worden aangenomen door de Cirkel. Een Cirkel mag een Beleidsafspraak aannemen om een tijdslimiet vast te leggen voor het maken van Bezwaren, waarna van iedereen die niet gereageerd heeft wordt aangenomen dat ze geen Bezwaren hebben. Elk Cirkellid mag op elk moment tijdens het asynchroon behandelen van een Voorstel de Indiener verzoeken om het Voorstel in te brengen tijdens een overleg om het daar te behandelen. Tenzij iets anders wordt bepaald in een Beleidsafspraak wordt de asynchrone behandeling dan afgebroken en wordt het Voorstel beschouwd als ingetrokken, totdat het opnieuw wordt ingediend tijdens een overleg.
 
 Een Cirkellid mag bij het doen van Voorstellen of het maken van Bezwaren alleen de Rollen in de Cirkel vertegenwoordigen waarvoor hij of zij als Rol Lead fungeert of welke hij of zij als Cirkel Rep vertegenwoordigt. Een Cirkellid mag ook een Rol vertegenwoordigen als hij of zij daar tijdelijk toestemming voor heeft gekregen van een van de Rol Leads van die Rol, totdat die toestemming vervalt of ingetrokken wordt.
 
@@ -370,7 +370,7 @@ Elk Lid van een Cirkel mag het Governance-proces ook opstarten door een verzoek 
 - **(e) Doen van een Voorstel:** De Facilitator telt de nominaties en doet een voorstel om de kandidaat met de meeste nominaties te verkiezen. Bij gelijke stand mag de Facilitator kiezen om: (i) als slechts een van de meest genomineerde kandidaten zichzelf heeft genomineerd, deze persoon voor te stellen, of (ii) als de persoon die de Rol op dit moment vervult een van de meest genomineerde kandidaten is, deze persoon voor te stellen, of (iii) blind en willekeurig een van de meest genomineerde kandidaten te kiezen en voor te stellen, of (iv) terug te gaan naar de vorige stap en elk Cirkellid dat iemand anders heeft genomineerd dan de meest genomineerde kandidaten te vragen om hun nominatie te wijzigen naar een van de meest genomineerde kandidaten.
 - **(f) Bezwaarronde:** De Facilitator vraagt elk Cirkellid of ze een Bezwaar zien tegen het Voorstel. Als er Bezwaren zijn mag de Facilitator ofwel discussie toestaan om ze proberen op te lossen, ofwel het voorstel verwerpen. In dat laatste geval moet de Facilitator terug gaan naar de vorige stap in dit proces, alle nominaties voor de verworpen kandidaat negeren, en de regels uit de vorige stap toepassen om tot een voorstel voor een andere kandidaat te komen.
 
-Een Cirkel mag een Werkafspraak aannemen om een tijdslimiet vast te leggen voor het nomineren van kandidaten of het reageren op een Voorstel in het Integratieve Verkiezingsproces. Na het verstrijken van die tijdslimiet moet de Facilitator iedereen die niet gereageerd heeft uitsluiten van het verdere verloop van het proces.
+Een Cirkel mag een Beleidsafspraak aannemen om een tijdslimiet vast te leggen voor het nomineren van kandidaten of het reageren op een Voorstel in het Integratieve Verkiezingsproces. Na het verstrijken van die tijdslimiet moet de Facilitator iedereen die niet gereageerd heeft uitsluiten van het verdere verloop van het proces.
 
 De Facilitator van een Cirkel is verantwoordelijk voor het agenderen van nieuwe verkiezingen voor de verkozen Rollen van de Cirkel na het verstrijken van een verkiezingstermijn.
 
@@ -401,7 +401,7 @@ Buiten de hierboven genoemden mag niemand anders deelnemen in de Roloverleggen v
 
 #### 5.4.2 Aankondiging & Duur
 
-Een Cirkel mag alleen een Roloverleg voeren als de Secretaris dit een redelijke tijd van tevoren aan alle Cirkelleden heeft aangekondigd. Afgezien daarvan vereist een Roloverleg van een Cirkel geen quorum, tenzij een Werkafspraak dat voorschrijft.
+Een Cirkel mag alleen een Roloverleg voeren als de Secretaris dit een redelijke tijd van tevoren aan alle Cirkelleden heeft aangekondigd. Afgezien daarvan vereist een Roloverleg van een Cirkel geen quorum, tenzij een Beleidsafspraak dat voorschrijft.
 
 Roloverleggen zijn klaar wanneer de oorspronkelijke door de Secretaris geplande eindtijd is bereikt. De Secretaris mag er tijdens het overleg voor kiezen om de duur te verlengen, maar alleen als geen enkel Cirkellid tot iets anders verzoekt.
 
@@ -417,7 +417,7 @@ De Facilitator moet het volgende proces gebruiken voor Roloverleggen:
 
 Een deelnemer mag op elk moment tijdens dit proces een verzoek om een ***“Time Out”*** doen. De Facilitator mag er voor kiezen om dit verzoek in te willigen of te weigeren. Gedurende de Time Out mogen deelnemers administratieve zaken of regels in deze Grondwet bespreken. Ze mogen de Time Out niet gebruiken om aan een Spanning, Voorstel of Bezwaar te werken. De Facilitator mag een Time Out op elk moment beëindigen en het normale proces hervatten.
 
-Een Werkafspraak van de Cirkel mag toevoegingen doen aan dit proces, maar mag niet in strijd zijn met de in dit Artikel beschreven regels of eisen.
+Een Beleidsafspraak van de Cirkel mag toevoegingen doen aan dit proces, maar mag niet in strijd zijn met de in dit Artikel beschreven regels of eisen.
 
 #### 5.4.4 Agenda-opbouw
 
