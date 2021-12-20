@@ -171,17 +171,17 @@ Als een Partner mag je een verzoek tot een Samenwerkingsafspraak doen aan een an
 Als een Partner heb je de plicht om je gedrag in overeenstemming te brengen met de vastgelegde Samenwerkingsafspraken die je hebt gemaakt. Iedereen die een overleg of een proces van de Organisatie faciliteert mag deze Samenwerkingsafspraken handhaven, zo lang ze niet in strijd zijn met bepalingen in deze Grondwet.
 
 
-## Artikel 3: Werkoverleggen
+## Artikel 3: Actieoverleggen
 
-Elke Partner mag een ***“Werkoverleg”*** organiseren om Partners te helpen een beroep te doen op elkaars verantwoordelijkheden en verplichtingen. Daarnaast is de Secretaris van elke Cirkel verantwoordelijk voor het plannen van regelmatige Werkoverleggen voor de Cirkel.
+Elke Partner mag een ***“Actieoverleg”*** organiseren om Partners te helpen een beroep te doen op elkaars verantwoordelijkheden en verplichtingen. Daarnaast is de Secretaris van elke Cirkel verantwoordelijk voor het plannen van regelmatige Actieoverleggen voor de Cirkel.
 
 ### 3.1 Aanwezigheid
 
-Voor de regelmatige Werkoverleggen die door de Secretaris van de Cirkel worden georganiseerd zijn alle Rollen van de Cirkel uitgenodigd, tenzij een Beleidsafspraak iets anders bepaalt. Voor andere Werkoverleggen moet de Partner die ze organiseert aangeven welke Rollen uitgenodigd zijn. Alle Partners die Rol Lead zijn van de genodigde Rollen hebben het recht om deel te nemen en die Rollen te vertegenwoordigen, tenzij de organisator de uitnodiging beperkt tot een deel van de Rol Leads van een Rol.
+Voor de regelmatige Actieoverleggen die door de Secretaris van de Cirkel worden georganiseerd zijn alle Rollen van de Cirkel uitgenodigd, tenzij een Beleidsafspraak iets anders bepaalt. Voor andere Actieverleggen moet de Partner die ze organiseert aangeven welke Rollen uitgenodigd zijn. Alle Partners die Rol Lead zijn van de genodigde Rollen hebben het recht om deel te nemen en die Rollen te vertegenwoordigen, tenzij de organisator de uitnodiging beperkt tot een deel van de Rol Leads van een Rol.
 
 ### 3.2 Overlegvorm
 
-De Facilitator van een Cirkel is verantwoordelijk voor het faciliteren van de regelmatige Werkoverleggen van de Cirkel en de Secretaris voor het vastleggen en delen van de uitkomsten van het Werkoverleg. Voor Werkoverleggen die worden georganiseerd door iemand anders dan de Secretaris van een Cirkel moet de Partner die ze organiseert ze faciliteren en de uitkomsten vastleggen, of daar een vrijwilliger of passende Rol voor zoeken.
+De Facilitator van een Cirkel is verantwoordelijk voor het faciliteren van de regelmatige Actieoverleggen van de Cirkel en de Secretaris voor het vastleggen en delen van de uitkomsten van het Actieoverleg. Voor Actieoverleggen die worden georganiseerd door iemand anders dan de Secretaris van een Cirkel moet de Partner die ze organiseert ze faciliteren en de uitkomsten vastleggen, of daar een vrijwilliger of passende Rol voor zoeken.
 
 Tenzij een Beleidsafspraak iets anders bepaalt moet de persoon die het overleg faciliteert het volgende proces volgen:
 
@@ -193,7 +193,7 @@ Tenzij een Beleidsafspraak iets anders bepaalt moet de persoon die het overleg f
 - **(f) Agendapunten Behandelen:** Om een agendapunt te behandelen mag de eigenaar van het agendapunt verzoeken doen aan andere deelnemers, in hun hoedanigheid als Partner of in een Rol die zij vertegenwoordigen in het overleg. Verzoeken aan een Rol mogen echter alleen gedaan worden vanuit een Rol die degene die het verzoek doet in het overleg vertegenwoordigt. De persoon die het overleg faciliteert geeft aan hoeveel tijd er per agendapunt beschikbaar is zodat alle agendapunten behandeld kunnen worden, en mag het behandelen van een agendapunt afkappen om dat te bewaken.
 - **(g) Check-out:** Elke deelnemer deelt een voor een zijn of haar reflectie op het overleg. Reacties zijn niet toegestaan.
 
-Een Beleidsafspraak mag een alternatief proces beschrijven voor de Werkoverleggen die op initiatief van de Rollen van een Cirkel plaatsvinden of dit standaardproces wijzigen.
+Een Beleidsafspraak mag een alternatief proces beschrijven voor de Actieoverleggen die op initiatief van de Rollen van een Cirkel plaatsvinden of dit standaardproces wijzigen.
 
 
 ## Artikel 4: Gedistribueerde Autoriteit
