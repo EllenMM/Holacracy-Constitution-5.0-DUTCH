@@ -4,7 +4,7 @@
 
 Hierbij nemen de ***“Ondertekenaars”*** deze ***“Grondwet”*** aan als het formele besturingsmodel van de genoemde ***“Organisatie”***. Daarmee staan de Ondertekenaars hun bevoegdheid om de organisatie te besturen en te leiden af aan de hier beschreven regels en processen, met uitzondering van die bevoegdheden waartoe de Ondertekenaars niet gemachtigd zijn om ze te delegeren. De Ondertekenaars of hun opvolgers mogen deze Grondwet wijzigen of intrekken op basis van dezelfde bevoegdheid waarmee deze is aangenomen, mits eventuele wijzigingen schriftelijk worden vastgelegd.
 
-Alle bestaande afspraken en systemen die de Organisatie kende voordat deze Grondwet werd aangenomen blijven na ondertekening volledig van kracht. Ze mogen echter niet uitgebreid of gewijzigd worden, behalve middels de hier beschreven bevoegdheden en processen. Deze eerdere afspraken en systemen verliezen verder al hun betekenis en bevoegdheid zodra er middels de hier beschreven processen iets wordt vastgelegd dat hen vervangt of er mee in tegenspraak is.
+Alle bestaande afspraken en systemen die de Organisatie kende voordat deze Grondwet werd aangenomen blijven na ondertekening volledig van kracht. Ze mogen echter niet uitgebreid of gewijzigd worden, behalve met de hier beschreven bevoegdheden en processen. Deze eerdere afspraken en systemen verliezen verder al hun betekenis en bevoegdheid zodra er met de hier beschreven processen iets wordt vastgelegd dat hen vervangt of er mee in tegenspraak is.
 
 De Organisatie mag naast de Ondertekenaars andere ***“Partners”*** aanwijzen die helpen met de besturing en met het dagelijkse werk, zo lang deze Partners hebben verklaard zich te zullen houden aan alle relevante spelregels in deze Grondwet. Binnen dit kader mag de Organisatie bepalen hoe het de Partner-status toekent of afneemt, tenzij anders bepaald door de Ondertekenaars, en de Ondertekenaars mogen de aanvankelijke Partners voor de Organisatie vaststellen.
 
@@ -15,27 +15,27 @@ Iedere Partner mag zich beroepen op de bevoegdheden zoals toegekend door deze Gr
 
 ### 1.1 Definitie van een rol
 
-Een ***“Rol”*** is een organisatie-onderdeel dat door een of meer personen kan worden vervuld en geactiveerd namens de Organisatie. Degenen die een Rol vervullen zijn een ***“Rol Lead”*** voor die Rol.
+Een ***“Rol”*** is een organisatie-onderdeel dat door één of meer personen kan worden vervuld en geactiveerd namens de Organisatie. Degenen die een Rol vervullen zijn een ***“Rolleider”*** voor die Rol.
 
-Een Rolbeschrijving bestaat uit een beschrijvende naam en een of meer van de volgende elementen:
+Een Rolbeschrijving bestaat uit een beschrijvende naam en één of meer van de volgende elementen:
 
-- **(a)** Een ***“Purpose”***, oftewel een vermogen, potentieel of doel dat de Rol nastreeft of waar de Rol uiting aan geeft.
-- **(b)** Een of meer ***“Domeinen”***, oftewel middelen, processen, of andere zaken die de Rol exclusief mag beheren als zijn eigendom, ten dienste van zijn Purpose.
-- **(c)** Een of meer ***“Verantwoordelijkheden”***, oftewel doorlopende activiteiten die de Rol beheert en uitvoert, ten dienste van andere Rollen of van zijn Purpose.
+- **(a)** Een ***“Purpose”***: een vermogen, potentieel of doel dat de Rol nastreeft of waar de Rol uiting aan geeft.
+- **(b)** Eén of meer ***“Domeinen”***: middelen, processen, of andere zaken die de Rol exclusief mag beheren als zijn eigendom, ten dienste van zijn Purpose.
+- **(c)** Eén of meer ***“Verantwoordelijkheden”***: doorlopende activiteiten die de Rol beheert en uitvoert, ten dienste van andere Rollen of van zijn Purpose.
 
-Een Rol mag ook ***“Werkafspraken”*** bevatten, oftewel afspraken om bevoegdheden toe te kennen of te beperken, of met speciale regels die van toepassing zijn binnen die Rol.
+Een Rol mag ook ***“Werkafspraken”*** bevatten. Een werkafspraak is een afspraak om bevoegdheden toe te kennen of te beperken, of stelt speciale regels vast die van toepassing zijn binnen die Rol.
 
-### 1.2 Verantwoordelijkheden van Rol Leads
+### 1.2 Verantwoordelijkheden van Rolleiders
 
-Als een Rol Lead heb je de volgende verantwoordelijkheden:
+Als Rolleider heb je de volgende verantwoordelijkheden:
 
 #### 1.2.1 Signaleren en Oplossen van Spanningen
 
-Je bent er verantwoordelijk voor om de huidige invulling van de Purpose en Verantwoordelijkheden van je Rol steeds te vergelijken met jouw beeld van de ideale situatie, en om verschillen tussen die twee te signaleren (elk verschil is een ***“Spanning”***). Vervolgens ben je er verantwoordelijk voor om die Spanningen proberen op te lossen.
+Je bent verantwoordelijk om de huidige invulling van de Purpose en Verantwoordelijkheden van je Rol steeds te vergelijken met jouw beeld van de ideale situatie, en om verschillen tussen die twee te signaleren (elk verschil is een ***“Spanning”***). Vervolgens ben je verantwoordelijk om die Spanningen te proberen op te lossen.
 
 #### 1.2.2 Uitvoeren van Purpose & Verantwoordelijkheden
 
-Je bent er verantwoordelijk voor om regelmatig na te denken hoe je de Purpose en iedere Verantwoordelijkheid van je Rol kunt uitvoeren, door de volgende zaken te bepalen:
+Je bent verantwoordelijk om regelmatig na te denken hoe je de Purpose en iedere Verantwoordelijkheid van je Rol kunt uitvoeren, door de volgende zaken te bepalen:
 
 - **(a)** ***“Eerstvolgende Acties”***, oftewel zinvolle acties die je direct zou kunnen nemen, mits er geen hogere prioriteiten zijn; en
 - **(b)** ***“Projecten”***, oftewel specifieke resultaten die zinvol zijn om naar toe te werken, mits er geen hogere prioriteiten zijn.
